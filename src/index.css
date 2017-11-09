@@ -10,21 +10,24 @@ h1 {
   font-family: sans-serif;
   background-color: #d3d3d3;
 }
+
 .total {
   color: white;
   font-size: 25px;
-display: flex;
-justify-content: center;
+  display: flex;
+  justify-content: center;
 }
+
 .ItemForm {
-background-color: lightblue;
-display: inline-block;
-padding: 5%;
-margin-left: 30%;
-/*margin: 0 auto;*/
--webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  background-color: lightblue;
+  display: inline-block;
+  padding: 5%;
+  margin-left: 35%;
+  margin-bottom: 20%;
+  /*margin: 0 auto;*/
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .ShoppingList {
